@@ -1,3 +1,9 @@
-body{
-    background: blue;
+body {
+  background: blue;
+}
+
+button {
+  padding: 10px 20px;
+  color: white;
+  background: chartreuse;
 }
